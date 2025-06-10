@@ -1,0 +1,3 @@
+En esta clase aprendi a como se deberia de estructurar un formulario correctamente y a como diseñarlo para que sea intuitivo y del agrado del usuario, ademas pude rapasar algunas de las propiedades que se pueden aplicar en un formulario como el "required" que logra que los campos de un formulario sean obligatorios.
+Tambien aprendi algunas cosas como el uso "deg" en css que permite darle un mejor diseño a nuestras paginas, o el "transition" puede hacer que nuestra pagina sea mucho más dinamica.
+Por ultimo aprendi como hacer mas seguro un formulario por medio de las tecnicas que enseño el intructor,como restirngir el copiar y pegar los correos y las contraseñas para evitar registrso SPAM.
